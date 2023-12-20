@@ -13,3 +13,7 @@ double product3 = i1 * I1;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+
+double d = 9;
+double quotien = d / i1;
+Console.WriteLine(quotien);
